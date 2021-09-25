@@ -1,0 +1,136 @@
+[
+    {
+        "id":"1",
+        "name":" Bernard Arnault and family",
+        "money" : "197.5",
+        "country" : "usa",
+        "age" :"70",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866598/bernard-arnault-lvmh-press-conference.webp?w=790&f=673552333102b82f292ad16855544361"
+
+
+    },
+    {
+        "id":"2",
+        "name":" Jeff Bezos ",
+        "money" : "192.8",
+        "country" : "usa",
+        "age" :"57",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866597/jeff-bezos.webp?w=790&f=75b11d220a083e543f5ee0d390955a8f"
+
+
+    },
+    {
+        "id":"3",
+        "name":" Elon Musk",
+        "money" : "185.9",
+        "country" : "usa",
+        "age" :"50",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866604/elon-musk-giving-thumbs.webp?w=790&f=72111c73fd9ebd535eee3fbeb5f28ca3"
+
+
+    },
+    {
+        "id":"4",
+        "name":" Bill Gates",
+        "money" : "132",
+        "country" : "usa",
+        "age" :"65",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866607/bill-gates-speaks-economic-club.webp?w=790&f=07e7d4466ca18e7445b22b85d4c8173c"
+
+
+    },
+    {
+        "id":"5",
+        "name":" Mark Zuckerberg ",
+        "money" : "130.4",
+        "country" : "usa",
+        "age" :"37",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866610/mark-zuckerberg-facebook-press-conference.webp?w=790&f=668ef7c4d7b2b73369ebda0bd6e18a6c"
+
+
+    },
+    {
+        "id":"6",
+        "name":" Larry Ellison",
+        "money" : "116.7",
+        "country" : "usa",
+        "age" :"77",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866612/larry-ellison-oracle-conference.webp?w=790&f=f9e7848bd007f237ac9ec30e421bf786"
+
+
+    },
+    {
+        "id":"7",
+        "name":" Larry Page",
+        "money" : "116.6",
+        "country" : "usa",
+        "age" :"48",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866613/larry-page-google-event.webp?w=790&f=1ddf3d25a182c04960cfe543b8d7a802"
+
+
+    },
+    {
+        "id":"8",
+        "name":" Sergey Brin",
+        "money" : "112.8",
+        "country" : "usa",
+        "age" :"48",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866616/sergey-brin-google-event.webp?w=790&f=45a8e078921f50211bd0ba71738f8d1e"
+
+
+    },
+    {
+        "id":"9",
+        "name":" Warren Buffett ",
+        "money" : "104.4",
+        "country" : "usa",
+        "age" :"91",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866617/warren-buffett-forbes-awards-dinner.webp?w=790&f=39210a1a814d35476fe82c965140375a"
+
+
+    },
+    {
+        "id":"10",
+        "name":"Françoise Bettencourt Meyers and family",
+        "money" : "92.4",
+        "country" : "usa",
+        "age" :"68",
+        "gender":"female",
+        "img":"https://d.newsweek.com/en/full/1866619/francoise-bettencourt-meyers.webp?w=790&f=523db92eb4a235aa2709b5e6542b0489"
+
+
+    },
+    {
+        "id":"11",
+        "name":" Steve Ballmer",
+        "money" : "84.5",
+        "country" : "usa",
+        "age" :"65",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866622/steve-ballmer-microsoft-press-conference.webp?w=790&f=b3a4b1b6c881e0ea1a2b5a37d6000224"
+
+
+    },
+    {
+        "id":"12",
+        "name":" Mukesh Ambani ",
+        "money" : "79.3",
+        "country" : "india",
+        "age" :"64",
+        "gender":"male",
+        "img":"https://d.newsweek.com/en/full/1866624/mukesh-ambani-book-launch.webp?w=790&f=3eac2b1a318ae8de7727ea6d6637cf39"
+
+
+    }
+    
+  
+]
