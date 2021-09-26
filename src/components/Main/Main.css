@@ -1,8 +1,17 @@
 .main-container{
     display:grid;
     grid-template-columns: 3fr 1fr;
+    background-color:white;
+    margin: 30px 30px;
+    position: relative;
+    
 }
 .billionaire-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr)
+}
+.cart-container{
+    position: fixed;
+    left: 1220px;
+    bottom: 30px;
 }
