@@ -12,9 +12,9 @@ const Billionaire = (props) => {
       <h5 className="card-title">{name}</h5>
 
       <p>{pera}.</p>
-      <p>Currently He Is Number {id} Billionaire In The World  in the   age of {age}</p>
-      <p className="card-text">Money ${money} B</p>
-      <p>Country Name {country}</p>
+      <p>Currently He Is Number {id} Billionaire In The World in the age of {age}</p>
+      <p className="card-text">Money - ${money} B</p>
+      <p>Country Name - {country}</p>
 
       <button onClick={ ()=> props.handleAddToCart(props.billionaire)} className="buttons"><i class="fas fa-calculator"></i> Add To Count</button>
       
