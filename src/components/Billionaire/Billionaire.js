@@ -2,7 +2,7 @@ import React from 'react';
 import './Billionaire.css'
 const Billionaire = (props) => {
    
-    const {name,age,money,img,id} = props.billionaire
+    const {name,age,money,img,country,pera,id} = props.billionaire
     return (
         < >
             
@@ -10,11 +10,13 @@ const Billionaire = (props) => {
     <img src={img} className="card-img-top" alt="..."/>
     <div className="card-body">
       <h5 className="card-title">{name}</h5>
-      <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p>He Is {age} Years Old</p>
-      <p className="card-text">Money ${money} B</p>
 
-      <button onClick={ ()=> props.handleAddToCart(props.billionaire)} className="buttons">Add To Cart</button>
+      <p>{pera}.</p>
+      <p>Currently He Is Number {id} Billionaire In The World  in the   age of {age}</p>
+      <p className="card-text">Money ${money} B</p>
+      <p>Country Name {country}</p>
+
+      <button onClick={ ()=> props.handleAddToCart(props.billionaire)} className="buttons"><i class="fas fa-calculator"></i> Add To Count</button>
       
     </div>
 

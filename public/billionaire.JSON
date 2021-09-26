@@ -1,23 +1,24 @@
 [
     {
         "id":"1",
-        "name":" Bernard Arnault and family",
+        "name":" Bernard Arnault ",
         "money" : "197.5",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"70",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866598/bernard-arnault-lvmh-press-conference.webp?w=790&f=673552333102b82f292ad16855544361"
-
-
+        "img":"https://d.newsweek.com/en/full/1866598/bernard-arnault-lvmh-press-conference.webp?w=790&f=673552333102b82f292ad16855544361",
+        "pera":"Bernard Jean Étienne Arnault is a French businessman, investor and art collector. He is the chairman and chief executive of LVMH Moët Hennessy"
+        
     },
     {
         "id":"2",
         "name":" Jeff Bezos ",
         "money" : "192.8",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"57",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866597/jeff-bezos.webp?w=790&f=75b11d220a083e543f5ee0d390955a8f"
+        "img":"https://d.newsweek.com/en/full/1866597/jeff-bezos.webp?w=790&f=75b11d220a083e543f5ee0d390955a8f",
+        "pera":"Jeffrey Preston Bezos is an American entrepreneur, media proprietor, investor, and computer engineer. He is the founder and executive chairman of Amazon"
 
 
     },
@@ -25,10 +26,11 @@
         "id":"3",
         "name":" Elon Musk",
         "money" : "185.9",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"50",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866604/elon-musk-giving-thumbs.webp?w=790&f=72111c73fd9ebd535eee3fbeb5f28ca3"
+        "img":"https://d.newsweek.com/en/full/1866604/elon-musk-giving-thumbs.webp?w=790&f=72111c73fd9ebd535eee3fbeb5f28ca3",
+        "pera":"Elon Reeve Musk FRS is an entrepreneur and business magnate. He is the founder, CEO and Chief Engineer at SpaceX; early stage investor"
 
 
     },
@@ -36,21 +38,23 @@
         "id":"4",
         "name":" Bill Gates",
         "money" : "132",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"65",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866607/bill-gates-speaks-economic-club.webp?w=790&f=07e7d4466ca18e7445b22b85d4c8173c"
-
+        "img":"https://d.newsweek.com/en/full/1866607/bill-gates-speaks-economic-club.webp?w=790&f=07e7d4466ca18e7445b22b85d4c8173c",
+        "pera":"William Henry Gates III is an American business magnate, software developer, investor, author, and philanthropist. He is a co-founder of Microsoft"
+  
 
     },
     {
         "id":"5",
         "name":" Mark Zuckerberg ",
         "money" : "130.4",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"37",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866610/mark-zuckerberg-facebook-press-conference.webp?w=790&f=668ef7c4d7b2b73369ebda0bd6e18a6c"
+        "img":"https://d.newsweek.com/en/full/1866610/mark-zuckerberg-facebook-press-conference.webp?w=790&f=668ef7c4d7b2b73369ebda0bd6e18a6c",
+        "pera":"Mark Elliot Zuckerberg is an American media magnate, internet entrepreneur, and philanthropist. He is known for co-founding Facebook, Inc"
 
 
     },
@@ -58,10 +62,11 @@
         "id":"6",
         "name":" Larry Ellison",
         "money" : "116.7",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"77",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866612/larry-ellison-oracle-conference.webp?w=790&f=f9e7848bd007f237ac9ec30e421bf786"
+        "img":"https://d.newsweek.com/en/full/1866612/larry-ellison-oracle-conference.webp?w=790&f=f9e7848bd007f237ac9ec30e421bf786",
+        "pera":"Lawrence Joseph Ellison is an American businessman and investor who is the co-founder, executive chairman, chief technology officer"
 
 
     },
@@ -69,10 +74,11 @@
         "id":"7",
         "name":" Larry Page",
         "money" : "116.6",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"48",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866613/larry-page-google-event.webp?w=790&f=1ddf3d25a182c04960cfe543b8d7a802"
+        "img":"https://d.newsweek.com/en/full/1866613/larry-page-google-event.webp?w=790&f=1ddf3d25a182c04960cfe543b8d7a802",
+        "pera":"Lawrence Edward Page is an American business magnate, computer scientist, and Internet entrepreneur "
 
 
     },
@@ -80,10 +86,11 @@
         "id":"8",
         "name":" Sergey Brin",
         "money" : "112.8",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"48",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866616/sergey-brin-google-event.webp?w=790&f=45a8e078921f50211bd0ba71738f8d1e"
+        "img":"https://d.newsweek.com/en/full/1866616/sergey-brin-google-event.webp?w=790&f=45a8e078921f50211bd0ba71738f8d1e",
+        "pera":"Sergey Mikhaylovich Brin is an American business magnate, computer scientist and Internet entrepreneur. Together with Larry Page, he co-founded Google"
 
 
     },
@@ -91,21 +98,23 @@
         "id":"9",
         "name":" Warren Buffett ",
         "money" : "104.4",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"91",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866617/warren-buffett-forbes-awards-dinner.webp?w=790&f=39210a1a814d35476fe82c965140375a"
+        "img":"https://d.newsweek.com/en/full/1866617/warren-buffett-forbes-awards-dinner.webp?w=790&f=39210a1a814d35476fe82c965140375a",
+        "pera":"Warren Edward Buffett is an American business magnate, investor, and philanthropist. He is currently the chairman and CEO of Berkshire Hathaway"
 
 
     },
     {
         "id":"10",
-        "name":"Françoise Bettencourt Meyers and family",
+        "name":"Françoise Bettencourt Meyers ",
         "money" : "92.4",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"68",
         "gender":"female",
-        "img":"https://d.newsweek.com/en/full/1866619/francoise-bettencourt-meyers.webp?w=790&f=523db92eb4a235aa2709b5e6542b0489"
+        "img":"https://d.newsweek.com/en/full/1866619/francoise-bettencourt-meyers.webp?w=790&f=523db92eb4a235aa2709b5e6542b0489",
+        "pera":"Françoise Bettencourt Meyers is a French billionaire heiress and the richest woman in the world"
 
 
     },
@@ -113,10 +122,11 @@
         "id":"11",
         "name":" Steve Ballmer",
         "money" : "84.5",
-        "country" : "usa",
+        "country" : "Usa",
         "age" :"65",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866622/steve-ballmer-microsoft-press-conference.webp?w=790&f=b3a4b1b6c881e0ea1a2b5a37d6000224"
+        "img":"https://d.newsweek.com/en/full/1866622/steve-ballmer-microsoft-press-conference.webp?w=790&f=b3a4b1b6c881e0ea1a2b5a37d6000224",
+        "pera":"Steven Anthony Ballmer is an American businessman and investor who served as the chief executive officer of Microsoft from 2000 to 2014"
 
 
     },
@@ -127,7 +137,8 @@
         "country" : "india",
         "age" :"64",
         "gender":"male",
-        "img":"https://d.newsweek.com/en/full/1866624/mukesh-ambani-book-launch.webp?w=790&f=3eac2b1a318ae8de7727ea6d6637cf39"
+        "img":"https://d.newsweek.com/en/full/1866624/mukesh-ambani-book-launch.webp?w=790&f=3eac2b1a318ae8de7727ea6d6637cf39",
+        "pera":"Mukesh Dhirubhai Ambani is an Indian billionaire businessman, and the chairman, managing director, and largest shareholder of Reliance Industries Ltd"
 
 
     }

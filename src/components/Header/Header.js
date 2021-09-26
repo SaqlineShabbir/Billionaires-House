@@ -5,7 +5,7 @@ const Header = () => {
         <div>
            <nav className="navbar navbar-expand-lg navbar-light my-bg">
   <div className="container-fluid">
-    <a className="navbar-brand fw-bold text-white" href="#">The Billionaires</a>
+    <a className="navbar-brand fw-bold text-white" href="#">The Billionaires House</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
@@ -21,7 +21,7 @@ const Header = () => {
           <a className="nav-link active text-white" aria-current="page" href="#">Topper</a>
         </li>
         
-        <li className="nav-item">
+        <li className="nav-item mx-5">
           <a className="nav-link active text-white" aria-current="page" href="#">Everything</a>
         </li>
         

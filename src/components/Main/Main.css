@@ -10,8 +10,3 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr)
 }
-.cart-container{
-    position: fixed;
-    left: 1220px;
-    bottom: 30px;
-}
