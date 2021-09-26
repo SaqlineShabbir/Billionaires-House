@@ -16,7 +16,7 @@ const Billionaire = (props) => {
       <p className="card-text">Money - ${money} B</p>
       <p>Country Name - {country}</p>
 
-      <button onClick={ ()=> props.handleAddToCart(props.billionaire)} className="buttons"><i class="fas fa-calculator"></i> Add To Count</button>
+      <button onClick={ ()=> props.handleAddToCart(props.billionaire)} className="buttons"><i className="fas fa-calculator"></i> Add To Count</button>
       
     </div>
 
